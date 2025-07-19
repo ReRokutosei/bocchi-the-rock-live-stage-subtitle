@@ -13,13 +13,14 @@ PlayResY: 1080
 Export Filters: 修正样式
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: BTR LIVE STAGE
-Audio File: LIVE STAGE「ぼっち・ざ・ろっく！」at Zepp Namba(OSAKA).mp4
-Video File: LIVE STAGE「ぼっち・ざ・ろっく！」at Zepp Namba(OSAKA).mp4
+Audio File: BTR.mkv
+Video File: BTR.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 482
+Video Zoom Percent: 0.625000
+Scroll Position: 852
+Active Line: 704
+Video Position: 68156
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,8 +32,8 @@ Style: Dialogue-CN-Right,思源黑体 Medium,75,&H00FFFFFF,&H000000FF,&H00000000
 Style: Dialogue-JP,Source Han Sans JP Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,5,1
 Style: Dialogue-JP-Left,Source Han Sans JP Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,600,5,1
 Style: Dialogue-JP-Right,Source Han Sans JP Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,600,0,5,1
-Style: SongTitle-CN,思源黑体 Heavy,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,10,0,5,1
-Style: SongTitle-JP,Source Han Sans JP Heavy,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,10,0,50,1
+Style: SongTitle-CN,思源宋体 Heavy,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,0,70,1
+Style: SongTitle-JP,思源宋体 Heavy,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,0,5,1
 Style: Tips-CN,思源黑体 Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,10,0,10,1
 
 [Events]
@@ -43,7 +44,7 @@ Dialogue: 0,0:00:08.00,0:00:17.08,Tips-CN,,0,0,0,,{\fad(300,300)}※采用 CC BY
 Dialogue: 0,0:09:30.02,0:09:32.15,Dialogue-JP,伊地知星歌,0,0,0,,本当にライブするんだなぁ
 Dialogue: 1,0:09:30.02,0:09:32.15,Dialogue-CN,伊地知星歌,0,0,0,,真的要开 Live 了啊
 Dialogue: 0,0:09:33.55,0:09:35.55,Dialogue-JP,伊地知星歌,0,0,0,,しかも  Zeppで
-Dialogue: 1,0:09:33.55,0:09:35.55,Dialogue-CN,伊地知星歌,0,0,0,,而且还是在Zepp
+Dialogue: 1,0:09:33.55,0:09:35.55,Dialogue-CN,伊地知星歌,0,0,0,,而且还是在 Zepp
 Dialogue: 0,0:09:35.10,0:09:39.55,Tips-CN,,0,0,0,,※Zepp是由索尼音乐运营的全国连锁大型Live House品牌\N※虽然规模不及体育场，但因观众与艺人距离近、互动强\N※门票往往最难抢、最贵，也常作为限定演出，仅对官方粉丝开放\N※许多大牌歌手如B'z、Mr.Children等都曾举办过Zepp Tour
 Dialogue: 0,0:09:37.55,0:09:39.55,Dialogue-JP,伊地知星歌,0,0,0,,開演5分前
 Dialogue: 1,0:09:37.55,0:09:39.55,Dialogue-CN,伊地知星歌,0,0,0,,现在是开场前5分钟
@@ -124,7 +125,7 @@ Dialogue: 1,0:11:09.50,0:11:15.35,Dialogue-CN,伊地知星歌,0,0,0,,演出期�
 Dialogue: 0,0:11:15.42,0:11:18.32,Dialogue-JP,PA小姐,0,0,0,,すごくナチュラルに初注意が始まりました
 Dialogue: 1,0:11:15.42,0:11:18.32,Dialogue-CN,PA小姐,0,0,0,,她就这么自然地开始说明了
 Dialogue: 0,0:11:18.45,0:11:20.78,Dialogue-JP,PA小姐,0,0,0,,皆さんよろしくお願いしますね
-Dialogue: 1,0:11:18.45,0:11:20.78,Dialogue-CN,PA小姐,0,0,0,,请大家多多关照
+Dialogue: 1,0:11:18.45,0:11:20.78,Dialogue-CN,PA小姐,0,0,0,,那就先请大家多多关照咯
 Dialogue: 0,0:11:23.42,0:11:24.12,Dialogue-JP,伊地知星歌,0,0,0,,もしもし
 Dialogue: 1,0:11:23.42,0:11:24.12,Dialogue-CN,伊地知星歌,0,0,0,,喂
 Dialogue: 0,0:11:24.12,0:11:25.35,Dialogue-JP,伊地知星歌,0,0,0,,もお前どこをつけ歩いて
@@ -360,9 +361,9 @@ Dialogue: 1,0:16:07.15,0:16:08.95,Dialogue-CN,观众,0,0,0,,PA 小姐
 Dialogue: 0,0:16:08.95,0:16:10.52,Dialogue-JP,广井菊理,0,0,0,,もっともっと
 Dialogue: 1,0:16:08.95,0:16:10.52,Dialogue-CN,广井菊理,0,0,0,,再再大声点
 Dialogue: 0,0:16:10.52,0:16:12.25,Dialogue-JP,广井菊理,0,0,0,,この人は
-Dialogue: 1,0:16:10.52,0:16:12.25,Dialogue-CN,广井菊理,0,0,0,,这个人是
+Dialogue: 1,0:16:10.52,0:16:12.25,Dialogue-CN,广井菊理,0,0,0,,这位小姐是
 Dialogue: 0,0:16:12.38,0:16:13.95,Dialogue-JP,观众,0,0,0,,PAさん
-Dialogue: 1,0:16:12.38,0:16:13.95,Dialogue-CN,观众,0,0,0,,PA小姐
+Dialogue: 1,0:16:12.38,0:16:13.95,Dialogue-CN,观众,0,0,0,,PA 小姐
 Dialogue: 0,0:16:17.68,0:16:19.18,Dialogue-JP,广井菊理,0,0,0,,先輩は
 Dialogue: 1,0:16:17.68,0:16:19.18,Dialogue-CN,广井菊理,0,0,0,,学姐呢
 Dialogue: 0,0:16:19.55,0:16:21.98,Dialogue-JP,观众,0,0,0,,星歌さん
@@ -432,7 +433,7 @@ Dialogue: 1,0:19:35.37,0:19:37.55,Dialogue-CN,喜多郁代,0,0,0,,开箱看看�
 Dialogue: 0,0:19:37.55,0:19:39.05,Dialogue-JP,后藤一里,0,0,0,,いや  それはちょっと…
 Dialogue: 1,0:19:37.55,0:19:39.05,Dialogue-CN,后藤一里,0,0,0,,可…可能现在不太合适吧
 Dialogue: 0,0:19:39.05,0:19:41.09,Dialogue-JP,伊地知虹夏,0,0,0,,明日みんなで練習するしね
-Dialogue: 1,0:19:39.05,0:19:41.09,Dialogue-CN,伊地知虹夏,0,0,0,,明天大家话要一起练习呢
+Dialogue: 1,0:19:39.05,0:19:41.09,Dialogue-CN,伊地知虹夏,0,0,0,,明天大家还要一起练习呢
 Dialogue: 0,0:19:41.09,0:19:43.09,Dialogue-JP,伊地知虹夏,0,0,0,,その時のお楽しみにしよう
 Dialogue: 1,0:19:41.09,0:19:43.09,Dialogue-CN,伊地知虹夏,0,0,0,,就留到那时候当惊喜吧
 Dialogue: 0,0:19:43.09,0:19:43.59,Dialogue-JP,后藤一里,0,0,0,,はい
@@ -490,7 +491,7 @@ Dialogue: 1,0:21:07.55,0:21:08.28,Dialogue-CN,吉他君,0,0,0,,一里酱
 Dialogue: 0,0:21:08.85,0:21:09.68,Dialogue-JP,后藤一里,0,0,0,,あなたは?
 Dialogue: 1,0:21:08.85,0:21:09.68,Dialogue-CN,后藤一里,0,0,0,,你是？
 Dialogue: 0,0:21:10.37,0:21:11.37,Dialogue-JP,吉他君,0,0,0,,「あなたは」?
-Dialogue: 1,0:21:10.37,0:21:11.37,Dialogue-CN,吉他君,0,0,0,,我是？
+Dialogue: 1,0:21:10.37,0:21:11.37,Dialogue-CN,吉他君,0,0,0,,「你是」？
 Dialogue: 0,0:21:12.22,0:21:13.37,Dialogue-JP,吉他君,0,0,0,,って知ってるでしょ
 Dialogue: 1,0:21:12.22,0:21:13.37,Dialogue-CN,吉他君,0,0,0,,你不是都知道嘛
 Dialogue: 0,0:21:13.37,0:21:14.37,Dialogue-JP,后藤一里,0,0,0,,すみません
@@ -508,7 +509,7 @@ Dialogue: 1,0:21:20.72,0:21:22.37,Dialogue-CN,后藤一里,0,0,0,,今…今天�
 Dialogue: 0,0:21:25.37,0:21:28.37,Dialogue-JP,后藤一里,0,0,0,,ごめんなさい…ごめんなさい…
 Dialogue: 1,0:21:25.37,0:21:28.37,Dialogue-CN,后藤一里,0,0,0,,对不起…对不起…
 Dialogue: 0,0:21:29.22,0:21:30.37,Dialogue-JP,吉他君,0,0,0,,今日はね
-Dialogue: 1,0:21:29.22,0:21:30.37,Dialogue-CN,吉他君,0,0,0,,今天呢
+Dialogue: 1,0:21:29.22,0:21:30.37,Dialogue-CN,吉他君,0,0,0,,今天来呢
 Dialogue: 0,0:21:30.37,0:21:31.72,Dialogue-JP,吉他君,0,0,0,,ヒトリちゃんがこれまで
 Dialogue: 1,0:21:30.37,0:21:31.72,Dialogue-CN,吉他君,0,0,0,,是因为一里酱迄今为止
 Dialogue: 0,0:21:31.72,0:21:33.65,Dialogue-JP,吉他君,0,0,0,,たくさんたくさん頑張ったから
@@ -520,7 +521,7 @@ Dialogue: 1,0:21:34.82,0:21:36.15,Dialogue-CN,吉他君,0,0,0,,给你送奖励�
 Dialogue: 0,0:21:36.32,0:21:37.32,Dialogue-JP,后藤一里,0,0,0,,ご褒美?
 Dialogue: 1,0:21:36.32,0:21:37.32,Dialogue-CN,后藤一里,0,0,0,,奖励？
 Dialogue: 0,0:21:37.72,0:21:38.85,Dialogue-JP,后藤一里,0,0,0,,いい響き
-Dialogue: 1,0:21:37.72,0:21:38.85,Dialogue-CN,后藤一里,0,0,0,,听起来不错
+Dialogue: 1,0:21:37.72,0:21:38.85,Dialogue-CN,后藤一里,0,0,0,,真不错啊
 Dialogue: 0,0:21:39.65,0:21:41.92,Dialogue-JP,后藤一里,0,0,0,,何かしてみたい夢はある
 Dialogue: 1,0:21:39.65,0:21:41.92,Dialogue-CN,后藤一里,0,0,0,,你有什么想实现的梦想吗
 Dialogue: 0,0:21:42.37,0:21:43.18,Dialogue-JP,后藤一里,0,0,0,,夢か?
@@ -546,7 +547,7 @@ Dialogue: 1,0:21:57.28,0:21:58.65,Dialogue-CN,后藤一里,0,0,0,,在一个超�
 Dialogue: 0,0:21:59.05,0:21:59.82,Dialogue-JP,后藤一里,0,0,0,,例えば
 Dialogue: 1,0:21:59.05,0:21:59.82,Dialogue-CN,后藤一里,0,0,0,,就比如说
 Dialogue: 0,0:21:59.88,0:22:01.55,Dialogue-JP,后藤一里,0,0,0,,Zeppのようなライブハウスで
-Dialogue: 1,0:21:59.88,0:22:01.55,Dialogue-CN,后藤一里,0,0,0,,在像Zepp这样的Live House里
+Dialogue: 1,0:21:59.88,0:22:01.55,Dialogue-CN,后藤一里,0,0,0,,在像Zepp这样的 Live House 里
 Dialogue: 0,0:22:01.55,0:22:03.25,Dialogue-JP,后藤一里,0,0,0,,ワンマンライブをすること
 Dialogue: 1,0:22:01.55,0:22:03.25,Dialogue-CN,后藤一里,0,0,0,,举办一场专场演出
 Dialogue: 0,0:22:16.57,0:22:17.45,Dialogue-JP,后藤一里,0,0,0,,何のままですか?
@@ -586,7 +587,7 @@ Dialogue: 1,0:22:46.37,0:22:49.12,Dialogue-CN,后藤一里,0,0,0,,那个  乐队
 Dialogue: 0,0:22:49.12,0:22:50.37,Dialogue-JP,吉他君,0,0,0,,もっと強く
 Dialogue: 1,0:22:49.12,0:22:50.37,Dialogue-CN,吉他君,0,0,0,,更强烈一点
 Dialogue: 0,0:22:50.37,0:22:52.88,Dialogue-JP,后藤一里,0,0,0,,ステージの上にはメンバーがいる!
-Dialogue: 1,0:22:50.37,0:22:52.88,Dialogue-CN,后藤一里,0,0,0,,我们乐队成员在舞台上站着！
+Dialogue: 1,0:22:50.37,0:22:52.88,Dialogue-CN,后藤一里,0,0,0,,我们的乐队成员在舞台上站着！
 Dialogue: 0,0:22:53.32,0:22:54.37,Dialogue-JP,后藤一里,0,0,0,,虹夏ちゃん!
 Dialogue: 1,0:22:53.32,0:22:54.37,Dialogue-CN,后藤一里,0,0,0,,虹夏酱！
 Dialogue: 0,0:22:54.37,0:22:55.37,Dialogue-JP,后藤一里,0,0,0,,リョウさん!
@@ -640,7 +641,7 @@ Dialogue: 1,0:24:00.52,0:24:01.22,Dialogue-CN,后藤一里,0,0,0,,然后…
 Dialogue: 0,0:24:01.22,0:24:02.65,Dialogue-JP,后藤一里,0,0,0,,観客席には
 Dialogue: 1,0:24:01.22,0:24:02.65,Dialogue-CN,后藤一里,0,0,0,,观众席上
 Dialogue: 0,0:24:02.65,0:24:04.65,Dialogue-JP,后藤一里,0,0,0,,たくさんのお客さんがいて
-Dialogue: 1,0:24:02.65,0:24:04.65,Dialogue-CN,后藤一里,0,0,0,,坐满了人
+Dialogue: 1,0:24:02.65,0:24:04.65,Dialogue-CN,后藤一里,0,0,0,,全都是人
 Dialogue: 0,0:24:05.15,0:24:06.95,Dialogue-JP,后藤一里,0,0,0,,「うぉーっ」て言っている
 Dialogue: 1,0:24:05.15,0:24:06.95,Dialogue-CN,后藤一里,0,0,0,,发出「哦」的欢呼声
 Dialogue: 0,0:24:07.05,0:24:09.08,Dialogue-JP,观众,0,0,0,,お!
@@ -687,8 +688,8 @@ Dialogue: 0,0:24:51.52,0:24:52.48,Dialogue-JP,后藤一里,0,0,0,,始まる!
 Dialogue: 1,0:24:51.52,0:24:52.48,Dialogue-CN,后藤一里,0,0,0,,开始！
 Dialogue: 0,0:25:05.85,0:25:07.12,Dialogue-JP,喜多郁代,0,0,0,,結束バンドです
 Dialogue: 1,0:25:05.85,0:25:07.12,Dialogue-CN,喜多郁代,0,0,0,,我们是  结束乐队
-Dialogue: 0,0:25:10.05,0:25:13.35,SongTitle-JP,,0,0,0,,「青春コンプレックス」
-Dialogue: 1,0:25:10.05,0:25:13.35,SongTitle-CN,,0,0,0,,「青春症候群」
+Dialogue: 0,0:25:10.05,0:25:13.35,SongTitle-JP,,0,0,0,,『青春コンプレックス』
+Dialogue: 1,0:25:10.05,0:25:13.35,SongTitle-CN,,0,0,0,,『青春症候群』
 Dialogue: 0,0:29:25.88,0:29:28.28,Dialogue-JP,喜多郁代,0,0,0,,改めまして こんばんは
 Dialogue: 1,0:29:25.88,0:29:28.28,Dialogue-CN,喜多郁代,0,0,0,,再次向大家致以问候  晚上好
 Dialogue: 0,0:29:28.52,0:29:30.88,Dialogue-JP,观众,0,0,0,,こんばんは
@@ -737,11 +738,12 @@ Dialogue: 0,0:30:21.38,0:30:23.42,Dialogue-JP,喜多郁代,0,0,0,,今日はい�
 Dialogue: 1,0:30:21.38,0:30:23.42,Dialogue-CN,喜多郁代,0,0,0,,我们今天准备了很多首歌曲
 Dialogue: 0,0:30:23.42,0:30:25.85,Dialogue-JP,喜多郁代,0,0,0,,最後まで楽しんでてください
 Dialogue: 1,0:30:23.42,0:30:25.85,Dialogue-CN,喜多郁代,0,0,0,,请大家一直享受到最后哦
-Dialogue: 0,0:30:30.42,0:30:32.48,SongTitle-JP,,0,0,0,,「ひとりぼっち東京」
-Dialogue: 1,0:30:30.42,0:30:32.48,SongTitle-CN,,0,0,0,,「东京 - 孤独东京」
-Dialogue: 0,0:34:19.98,0:34:21.48,SongTitle-CN,,0,0,0,,「Distortion!!」
-Dialogue: 0,0:37:49.35,0:37:51.35,SongTitle-JP,,0,0,0,,「ひみつ基地」
-Dialogue: 1,0:37:49.35,0:37:51.35,SongTitle-CN,,0,0,0,,「秘密基地」
+Dialogue: 0,0:30:30.42,0:30:32.48,SongTitle-JP,,0,0,0,,『ひとりぼっち東京』
+Dialogue: 1,0:30:30.42,0:30:32.48,SongTitle-CN,,0,0,0,,『东京 - 孤独东京』
+Dialogue: 0,0:34:19.98,0:34:21.48,SongTitle-JP,,0,0,0,,『Distortion!!』
+Dialogue: 0,0:34:19.98,0:34:21.48,SongTitle-CN,,0,0,0,,『失真！！』
+Dialogue: 0,0:37:49.35,0:37:51.35,SongTitle-JP,,0,0,0,,『ひみつ基地』
+Dialogue: 1,0:37:49.35,0:37:51.35,SongTitle-CN,,0,0,0,,『秘密基地』
 Dialogue: 0,0:38:03.28,0:38:06.45,Dialogue-JP,喜多郁代,0,0,0,,まだまだ行けました  大阪
 Dialogue: 1,0:38:03.28,0:38:06.45,Dialogue-CN,喜多郁代,0,0,0,,大阪的热情才刚刚点燃！
 Dialogue: 0,0:41:33.35,0:41:34.88,Dialogue-JP,喜多郁代,0,0,0,,ありがとうございました
@@ -890,14 +892,14 @@ Dialogue: 0,0:45:12.58,0:45:13.62,Dialogue-JP,喜多郁代,0,0,0,,聴いてく�
 Dialogue: 1,0:45:12.58,0:45:13.62,Dialogue-CN,喜多郁代,0,0,0,,请听
 Dialogue: 0,0:45:14.52,0:45:16.95,Dialogue-JP,喜多郁代,0,0,0,,「ギターと孤独と蒼い惑星」
 Dialogue: 1,0:45:14.52,0:45:16.95,Dialogue-CN,喜多郁代,0,0,0,,「吉他与孤独与蓝色星球」
-Dialogue: 0,0:45:16.95,0:45:18.95,SongTitle-JP,,0,0,0,,「ギターと孤独と蒼い惑星」
-Dialogue: 1,0:45:16.95,0:45:18.95,SongTitle-CN,,0,0,0,,「吉他与孤独与蓝色星球」
+Dialogue: 0,0:45:16.95,0:45:18.95,SongTitle-JP,,0,0,0,,『ギターと孤独と蒼い惑星』
+Dialogue: 1,0:45:16.95,0:45:18.95,SongTitle-CN,,0,0,0,,『吉他与孤独与蓝色星球』
 Dialogue: 0,0:49:00.52,0:49:01.65,Dialogue-JP,喜多郁代,0,0,0,,結束マンドですだ!
 Dialogue: 1,0:49:00.52,0:49:01.65,Dialogue-CN,喜多郁代,0,0,0,,我们是  结束乐队！
 Dialogue: 0,0:49:01.65,0:49:03.85,Dialogue-JP,喜多郁代,0,0,0,,ありがとうございますだ!
 Dialogue: 1,0:49:01.65,0:49:03.85,Dialogue-CN,喜多郁代,0,0,0,,谢谢大家！
-Dialogue: 0,0:49:11.15,0:49:13.18,SongTitle-JP,,0,0,0,,「ラブソングが歌えない」
-Dialogue: 1,0:49:11.15,0:49:13.18,SongTitle-CN,,0,0,0,,「不会唱情歌」
+Dialogue: 0,0:49:11.15,0:49:13.18,SongTitle-JP,,0,0,0,,『ラブソングが歌えない』
+Dialogue: 1,0:49:11.15,0:49:13.18,SongTitle-CN,,0,0,0,,『不会唱情歌』
 Dialogue: 0,0:52:31.88,0:52:33.85,Dialogue-JP,喜多郁代,0,0,0,,ラブソンだら歌ないいですだ
 Dialogue: 1,0:52:31.88,0:52:33.85,Dialogue-CN,喜多郁代,0,0,0,,情歌的旋律真好听  对吧
 Dialogue: 0,0:52:50.22,0:52:51.42,Dialogue-JP,观众,0,0,0,,ぼっち
@@ -924,8 +926,8 @@ Dialogue: 0,0:53:26.12,0:53:26.48,Dialogue-JP,喜多郁代,0,0,0,,らもっと
 Dialogue: 1,0:53:26.12,0:53:26.48,Dialogue-CN,喜多郁代,0,0,0,,更加
 Dialogue: 0,0:53:26.55,0:53:28.35,Dialogue-JP,喜多郁代,0,0,0,,盛り上がってくださーい!
 Dialogue: 1,0:53:26.55,0:53:28.35,Dialogue-CN,喜多郁代,0,0,0,,热烈一点！
-Dialogue: 0,0:54:15.22,0:54:16.92,SongTitle-JP,,0,0,0,,「あのバンド」
-Dialogue: 1,0:54:15.22,0:54:16.92,SongTitle-CN,,0,0,0,,「那个乐队」
+Dialogue: 0,0:54:15.22,0:54:16.92,SongTitle-JP,,0,0,0,,『あのバンド』
+Dialogue: 1,0:54:15.22,0:54:16.92,SongTitle-CN,,0,0,0,,『那个乐队』
 Dialogue: 0,0:57:44.75,0:57:46.12,Dialogue-JP,喜多郁代,0,0,0,,ありがとうございますた
 Dialogue: 1,0:57:44.75,0:57:46.12,Dialogue-CN,喜多郁代,0,0,0,,谢谢大家！
 Dialogue: 0,0:57:52.15,0:57:55.28,Dialogue-JP,伊地知虹夏,0,0,0,,みんな 最高だねー！
@@ -1421,28 +1423,28 @@ Dialogue: 0,1:07:23.92,1:07:25.05,Dialogue-JP,后藤二里,0,0,0,,お姉ちゃ�
 Dialogue: 1,1:07:23.92,1:07:25.05,Dialogue-CN,后藤二里,0,0,0,,趁姐姐们不在
 Dialogue: 0,1:07:25.05,1:07:26.78,Dialogue-JP,后藤二里,0,0,0,,今の隙に  どうぞ
 Dialogue: 1,1:07:25.05,1:07:26.78,Dialogue-CN,后藤二里,0,0,0,,现在请开始表演吧
-Dialogue: 0,1:07:26.78,1:07:27.75,Dialogue-JP,广井菊理,0,0,0,,Thank you
+Dialogue: 0,1:07:26.78,1:07:27.75,Dialogue-JP,广井菊理,0,0,0,,Thank You
 Dialogue: 1,1:07:26.78,1:07:27.75,Dialogue-CN,广井菊理,0,0,0,,谢啦
 Dialogue: 0,1:07:29.18,1:07:29.88,Dialogue-JP,后藤二里,0,0,0,,続きまして
 Dialogue: 1,1:07:29.18,1:07:29.88,Dialogue-CN,后藤二里,0,0,0,,接下来
 Dialogue: 0,1:07:30.12,1:07:31.25,Dialogue-JP,后藤二里,0,0,0,,私たちと同じ
 Dialogue: 1,1:07:30.12,1:07:31.25,Dialogue-CN,后藤二里,0,0,0,,和我们一起
 Dialogue: 0,1:07:31.55,1:07:34.12,Dialogue-JP,后藤二里,0,0,0,,結束バンド を応援に来てくださいました
-Dialogue: 1,1:07:31.55,1:07:34.12,Dialogue-CN,后藤二里,0,0,0,,为结束乐队应援的
+Dialogue: 1,1:07:31.55,1:07:34.12,Dialogue-CN,后藤二里,0,0,0,,为结束乐队应援的是
 Dialogue: 0,1:07:34.42,1:07:36.85,Dialogue-JP,后藤二里,0,0,0,,SICK HACKの  皆さんです
-Dialogue: 1,1:07:34.42,1:07:36.85,Dialogue-CN,后藤二里,0,0,0,,还有 SICK HACK 的队员们
+Dialogue: 1,1:07:34.42,1:07:36.85,Dialogue-CN,后藤二里,0,0,0,,干劲满满的 SICK HACK
 Dialogue: 0,1:07:37.35,1:07:38.95,Dialogue-JP,后藤二里,0,0,0,,張り切った
-Dialogue: 1,1:07:37.35,1:07:38.95,Dialogue-CN,后藤二里,0,0,0,,干劲十足地
+Dialogue: 1,1:07:37.35,1:07:38.95,Dialogue-CN,后藤二里,0,0,0,,已经准备好啦
 Dialogue: 0,1:07:39.62,1:07:40.88,Dialogue-JP,后藤一家(3),0,0,0,,どうぞ
 Dialogue: 1,1:07:39.62,1:07:40.88,Dialogue-CN,后藤一家(3),0,0,0,,上吧
 Dialogue: 0,1:07:54.95,1:07:57.58,Dialogue-JP,广井菊理,0,0,0,,ご紹介におつかれました
-Dialogue: 1,1:07:54.95,1:07:57.58,Dialogue-CN,广井菊理,0,0,0,,您辛苦了
+Dialogue: 1,1:07:54.95,1:07:57.58,Dialogue-CN,广井菊理,0,0,0,,有劳您介绍了
 Dialogue: 0,1:07:57.58,1:07:59.02,Dialogue-JP,广井菊理,0,0,0,,結束バンドの応援に
-Dialogue: 1,1:07:57.58,1:07:59.02,Dialogue-CN,广井菊理,0,0,0,,为结束乐队加油
+Dialogue: 1,1:07:57.58,1:07:59.02,Dialogue-CN,广井菊理,0,0,0,,为了给结束乐队应援
 Dialogue: 0,1:07:59.02,1:08:00.45,Dialogue-JP,广井菊理,0,0,0,,張り切ってます  やってきます
-Dialogue: 1,1:07:59.02,1:08:00.45,Dialogue-CN,广井菊理,0,0,0,,干劲十足  即将到来
+Dialogue: 1,1:07:59.02,1:08:00.45,Dialogue-CN,广井菊理,0,0,0,,我们这就燃爆全场
 Dialogue: 0,1:08:00.68,1:08:02.58,Dialogue-JP,广井菊理,0,0,0,,SICK HACKです!
-Dialogue: 1,1:08:00.68,1:08:02.58,Dialogue-CN,广井菊理,0,0,0,,我们是 SICK HACK ！
+Dialogue: 1,1:08:00.68,1:08:02.58,Dialogue-CN,广井菊理,0,0,0,,SICK HACK 参上！
 Dialogue: 0,1:08:12.18,1:08:14.95,Dialogue-JP,广井菊理,0,0,0,,誰にも注意されない
 Dialogue: 1,1:08:12.18,1:08:14.95,Dialogue-CN,广井菊理,0,0,0,,好像没人注意到我们诶
 Dialogue: 0,1:08:15.38,1:08:16.98,Dialogue-JP,广井菊理,0,0,0,,注意されないってことは
@@ -1455,8 +1457,8 @@ Dialogue: 0,1:08:24.82,1:08:26.88,Dialogue-JP,广井菊理,0,0,0,,準備はい�
 Dialogue: 1,1:08:24.82,1:08:26.88,Dialogue-CN,广井菊理,0,0,0,,准备好了吗
 Dialogue: 0,1:08:26.88,1:08:31.18,Dialogue-JP,广井菊理,0,0,0,,大阪  行くぞ!
 Dialogue: 1,1:08:26.88,1:08:31.18,Dialogue-CN,广井菊理,0,0,0,,大阪 我们来了！
-Dialogue: 0,1:09:03.62,1:09:06.22,SongTitle-JP,,0,0,0,,「ワタシダケユウレイ」
-Dialogue: 1,1:09:03.62,1:09:06.22,SongTitle-CN,,0,0,0,,「幽灵唯我一人」
+Dialogue: 0,1:09:03.62,1:09:06.22,SongTitle-JP,,0,0,0,,『ワタシダケユウレイ』
+Dialogue: 1,1:09:03.62,1:09:06.22,SongTitle-CN,,0,0,0,,『幽灵唯我一人』
 Dialogue: 0,1:13:01.55,1:13:03.25,Dialogue-JP,广井菊理,0,0,0,,大阪最高!
 Dialogue: 1,1:13:01.55,1:13:03.25,Dialogue-CN,广井菊理,0,0,0,,大阪是最棒的！
 Dialogue: 0,1:13:03.25,1:13:05.25,Dialogue-JP,广井菊理,0,0,0,,Mother  @#$&%
@@ -1561,8 +1563,8 @@ Dialogue: 0,1:14:47.42,1:14:47.95,Dialogue-JP,后藤一里,0,0,0,,どっち?
 Dialogue: 1,1:14:47.42,1:14:47.95,Dialogue-CN,后藤一里,0,0,0,,到底是？
 Dialogue: 0,1:14:48.88,1:14:52.05,Dialogue-JP,观众,0,0,0,,現実
 Dialogue: 1,1:14:48.88,1:14:52.05,Dialogue-CN,观众,0,0,0,,这里是现实
-Dialogue: 0,1:15:16.72,1:15:19.42,SongTitle-JP,,0,0,0,,「小さな海」
-Dialogue: 1,1:15:16.72,1:15:19.42,SongTitle-CN,,0,0,0,,「小小的海」
+Dialogue: 0,1:15:16.72,1:15:19.42,SongTitle-JP,,0,0,0,,『小さな海』
+Dialogue: 1,1:15:16.72,1:15:19.42,SongTitle-CN,,0,0,0,,『小小的海』
 Dialogue: 0,1:16:49.82,1:16:50.48,Dialogue-JP,喜多郁代,0,0,0,,皆さん
 Dialogue: 1,1:16:49.82,1:16:50.48,Dialogue-CN,喜多郁代,0,0,0,,大家
 Dialogue: 0,1:16:50.48,1:16:53.52,Dialogue-JP,喜多郁代,0,0,0,,盛り上がっていきましょう
@@ -1693,10 +1695,10 @@ Dialogue: 0,1:23:10.65,1:23:11.82,Dialogue-JP,喜多郁代,0,0,0,,聞いてく�
 Dialogue: 1,1:23:10.65,1:23:11.82,Dialogue-CN,喜多郁代,0,0,0,,请听
 Dialogue: 0,1:23:12.18,1:23:13.38,Dialogue-JP,喜多郁代,0,0,0,,「忘れてやらない」
 Dialogue: 1,1:23:12.18,1:23:13.38,Dialogue-CN,喜多郁代,0,0,0,,「绝不会忘记」
-Dialogue: 0,1:23:16.12,1:23:18.85,SongTitle-JP,,0,0,0,,「忘れてやらない」
-Dialogue: 1,1:23:16.12,1:23:18.85,SongTitle-CN,,0,0,0,,「绝不会忘记」
-Dialogue: 0,1:27:01.32,1:27:03.82,SongTitle-JP,,0,0,0,,「星座になれたら」
-Dialogue: 1,1:27:01.32,1:27:03.82,SongTitle-CN,,0,0,0,,「若能化作星座」
+Dialogue: 0,1:23:16.12,1:23:18.85,SongTitle-JP,,0,0,0,,『忘れてやらない』
+Dialogue: 1,1:23:16.12,1:23:18.85,SongTitle-CN,,0,0,0,,『绝不会忘记』
+Dialogue: 0,1:27:01.32,1:27:03.82,SongTitle-JP,,0,0,0,,『星座になれたら』
+Dialogue: 1,1:27:01.32,1:27:03.82,SongTitle-CN,,0,0,0,,『若能化作星座』
 Dialogue: 0,1:31:32.52,1:31:33.58,Dialogue-JP,观众,0,0,0,,よかった
 Dialogue: 1,1:31:32.52,1:31:33.58,Dialogue-CN,观众,0,0,0,,太棒了
 Dialogue: 0,1:31:34.22,1:31:34.92,Dialogue-JP-Right,观众,0,0,0,,急げっ!
@@ -1814,8 +1816,8 @@ Dialogue: 0,1:34:18.45,1:34:19.88,Dialogue-JP,喜多郁代,0,0,0,,今日は本�
 Dialogue: 1,1:34:18.45,1:34:19.88,Dialogue-CN,喜多郁代,0,0,0,,今天真的
 Dialogue: 0,1:34:20.18,1:34:21.95,Dialogue-JP,喜多郁代,0,0,0,,ありがとうございました
 Dialogue: 1,1:34:20.18,1:34:21.95,Dialogue-CN,喜多郁代,0,0,0,,非常感谢大家
-Dialogue: 0,1:34:45.58,1:34:49.48,SongTitle-JP,,0,0,0,,「フラッシュバッカー」
-Dialogue: 1,1:34:45.58,1:34:49.48,SongTitle-CN,,0,0,0,,「往日重现」
+Dialogue: 0,1:34:45.58,1:34:49.48,SongTitle-JP,,0,0,0,,『フラッシュバッカー』
+Dialogue: 1,1:34:45.58,1:34:49.48,SongTitle-CN,,0,0,0,,『往日重现』
 Dialogue: 0,1:39:33.65,1:39:34.95,Dialogue-JP,观众,0,0,0,,リョウさん
 Dialogue: 1,1:39:33.65,1:39:34.95,Dialogue-CN,观众,0,0,0,,凉学姐
 Dialogue: 0,1:39:35.32,1:39:36.75,Dialogue-JP,观众,0,0,0,,喜多さん
@@ -2141,8 +2143,8 @@ Dialogue: 0,1:44:44.95,1:44:46.02,Dialogue-JP,后藤一里,0,0,0,,夢じゃな�
 Dialogue: 1,1:44:44.95,1:44:46.02,Dialogue-CN,后藤一里,0,0,0,,希望不是在梦里
 Dialogue: 0,1:44:46.32,1:44:48.42,Dialogue-JP,后藤一里,0,0,0,,いつか現実になるといいな
 Dialogue: 1,1:44:46.32,1:44:48.42,Dialogue-CN,后藤一里,0,0,0,,而是某天梦想成真就好了
-Dialogue: 0,1:47:19.88,1:47:27.55,SongTitle-JP,,0,0,0,,「転がる岩  君に朝が降る」
-Dialogue: 1,1:47:19.88,1:47:27.55,SongTitle-CN,,0,0,0,,「翻转岩石  晨光洒落你身」
+Dialogue: 0,1:47:19.88,1:47:27.55,SongTitle-JP,,0,0,0,,『転がる岩  君に朝が降る』
+Dialogue: 1,1:47:19.88,1:47:27.55,SongTitle-CN,,0,0,0,,『翻转岩石  晨光洒落你身』
 Dialogue: 0,1:52:07.65,1:52:09.65,Dialogue-JP,山田凉,0,0,0,,本日はありがとうございました
 Dialogue: 1,1:52:07.65,1:52:09.65,Dialogue-CN,山田凉,0,0,0,,今天非常感谢大家
 Dialogue: 0,1:52:16.12,1:52:18.02,Dialogue-JP,山田凉,0,0,0,,今日のライブを盛り上げてくれた
@@ -2755,7 +2757,7 @@ Dialogue: 1,2:03:01.95,2:03:02.85,Dialogue-CN,后藤一里,0,0,0,,本次
 Dialogue: 0,2:03:02.92,2:03:04.82,Dialogue-JP,后藤一里,0,0,0,,LIVE STAGE「ぼっち・ざ・ろっく！」
 Dialogue: 1,2:03:02.92,2:03:04.82,Dialogue-CN,后藤一里,0,0,0,,「孤独摇滚！」舞台剧 LIVE
 Dialogue: 0,2:03:04.85,2:03:06.62,Dialogue-JP,后藤一里,0,0,0,,at Zepp Namba
-Dialogue: 1,2:03:04.85,2:03:06.62,Dialogue-CN,后藤一里,0,0,0,,at Zepp Namba: 1,2:03:04.85,2:03:06.62,Dialogue-CN,后藤一里,0,0,0,,at Zepp Namba
+Dialogue: 1,2:03:04.85,2:03:06.62,Dialogue-CN,后藤一里,0,0,0,,at Zepp Namba
 Dialogue: 0,2:03:07.18,2:03:08.35,Dialogue-JP,后藤一里,0,0,0,,へお越しいただき
 Dialogue: 1,2:03:07.18,2:03:08.35,Dialogue-CN,后藤一里,0,0,0,,承蒙各位莅临
 Dialogue: 0,2:03:08.38,2:03:09.15,Dialogue-JP,后藤一里,0,0,0,,本当に
@@ -2770,14 +2772,14 @@ Dialogue: 0,2:03:32.18,2:03:34.25,Dialogue-JP,结束乐队,0,0,0,,ありがと�
 Dialogue: 1,2:03:32.18,2:03:34.25,Dialogue-CN,结束乐队,0,0,0,,谢谢大家
 Dialogue: 0,2:06:05.68,2:06:07.28,Dialogue-JP,喜多郁代,0,0,0,,アンコールありがとうございました
 Dialogue: 1,2:06:05.68,2:06:07.28,Dialogue-CN,喜多郁代,0,0,0,,谢谢大家的安可
-Dialogue: 0,2:06:07.28,2:06:07.28,Dialogue-JP,喜多郁代,0,0,0,,結束バンドです
-Dialogue: 1,2:06:07.28,2:06:07.28,Dialogue-CN,喜多郁代,0,0,0,,我们是结束乐队
+Dialogue: 0,2:06:07.28,2:06:09.15,Dialogue-JP,喜多郁代,0,0,0,,結束バンドです
+Dialogue: 1,2:06:07.28,2:06:09.15,Dialogue-CN,喜多郁代,0,0,0,,我们是结束乐队
 Dialogue: 0,2:06:13.05,2:06:15.62,Dialogue-JP,喜多郁代,0,0,0,,今日は本当にありがとうございました
 Dialogue: 1,2:06:13.05,2:06:15.62,Dialogue-CN,喜多郁代,0,0,0,,今天真的非常感谢
 Dialogue: 0,2:06:23.02,2:06:24.18,Dialogue-JP,喜多郁代,0,0,0,,「ドッペルゲンガー」
 Dialogue: 1,2:06:23.02,2:06:24.18,Dialogue-CN,喜多郁代,0,0,0,,「替身」
-Dialogue: 0,2:06:46.75,2:06:49.88,SongTitle-JP,,0,0,0,,「ドッペルゲンガー」
-Dialogue: 1,2:06:46.75,2:06:49.88,SongTitle-CN,,0,0,0,,「替身」
+Dialogue: 0,2:06:46.75,2:06:49.88,SongTitle-JP,,0,0,0,,『ドッペルゲンガー』
+Dialogue: 1,2:06:46.75,2:06:49.88,SongTitle-CN,,0,0,0,,『替身』
 Dialogue: 0,2:10:07.25,2:10:08.62,Dialogue-JP,喜多郁代,0,0,0,,結束バンドですだ!
 Dialogue: 1,2:10:07.25,2:10:08.62,Dialogue-CN,喜多郁代,0,0,0,,我们是结束乐队！
 Dialogue: 0,2:10:08.62,2:10:11.62,Dialogue-JP,喜多郁代,0,0,0,,ありがとうございました!

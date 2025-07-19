@@ -1,4 +1,5 @@
 # LIVE STAGE「ぼっち・ざ・ろっく！」at Zepp Namba(OSAKA)
+
 - 本字幕由 Rokutosei 制作
 
 - 翻译：Rokutosei
@@ -13,23 +14,12 @@
 
 - 转载请注明出处
 
+## 字体信息
 
-## 文件信息
-```
-LIVE STAGE「ぼっち・ざ・ろっく！」at Zepp Namba(OSAKA)[Rokutosei].ja.ass
-LIVE STAGE「ぼっち・ざ・ろっく！」at Zepp Namba(OSAKA)[Rokutosei].zh-Hans.ass       
-LIVE STAGE「ぼっち・ざ・ろっく！」at Zepp Namba(OSAKA)[Rokutosei].zh-Hans-ja.ass
-```
-
-- 分别为日语版、简体中文版、中日双语版
-
-- 推荐使用 zh-Hans-ja 中日双语版
-
-- 使用开源字体-[思源黑体](https://github.com/adobe-fonts/source-han-sans)
-  - SourceHanSansJP-Heavy.otf
+- 使用开源字体-[思源黑体](https://github.com/adobe-fonts/source-han-sans)、[思源宋体](https://github.com/adobe-fonts/source-han-serif)
   - SourceHanSansJP-Medium.otf
-  - SourceHanSansSC-Heavy.otf
   - SourceHanSansSC-Medium.otf
+  - SourceHanSerifSC-Heavy.otf
 
 # 参考
 - https://online.aniplex.co.jp/XLgmiRxm
@@ -50,6 +40,7 @@ LIVE STAGE「ぼっち・ざ・ろっく！」at Zepp Namba(OSAKA)[Rokutosei].zh
 - https://github.com/chidiwilliams/buzz
 - https://github.com/TypesettingTools/Aegisub
 - https://github.com/adobe-fonts/source-han-sans
+- https://github.com/adobe-fonts/source-han-serif
 - https://www.bilibili.com/video/BV1oggXzQELC
 - https://www.bilibili.com/video/BV19F411w7m5
 - https://www.bilibili.com/video/BV1DZ4y1j7Nj
@@ -59,3 +50,5 @@ LIVE STAGE「ぼっち・ざ・ろっく！」at Zepp Namba(OSAKA)[Rokutosei].zh
 - https://www.tongyi.com
 - https://chat.deepseek.com
 - https://fanyi.youdao.com/
+- https://mingysub.github.io/Handbook/
+- https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/wiki
